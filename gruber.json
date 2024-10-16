@@ -1,0 +1,23 @@
+{
+    "name": "Gruber Darker",
+    "black": "#181818",
+    "red": "#f43841",
+    "green": "#73c936",
+    "yellow": "#ffdd33",
+    "blue": "#96a6c8",
+    "purple": "#9e95c7",
+    "cyan": "#95a99f",
+    "white": "#f4f4ff",
+    "brightBlack": "#454545",
+    "brightRed": "#f43841",
+    "brightGreen": "#73c936",
+    "brightYellow": "#ffdd33",
+    "brightBlue": "#96a6c8",
+    "brightPurple": "#9e95c7",
+    "brightCyan": "#95a99f",
+    "brightWhite": "#ffffff",
+    "background": "#181818",
+    "foreground": "#e4e4ef",
+    "selectionBackground": "#484848",
+    "cursorColor": "#e4e4ef"
+}
